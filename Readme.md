@@ -1,9 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Дмитрий Семерунний](https://up.htmlacademy.ru/htmlcss/26/user/1149491).
-* Наставник: `Неизвестно`.
-
----
+* Наставник: [Виктория Коваленко](https://htmlacademy.ru/profile/id42638).---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
